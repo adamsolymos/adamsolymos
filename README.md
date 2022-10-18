@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adamsolymos, software engineer, open-source enthusiast, thinker
+- 👋 Hi, I’m @adamsolymos, software engineer, open-source enthusiast, overthinker
 - 🌱 I’m currently learning Golang
 
 <!---
