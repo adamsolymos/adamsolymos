@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adamsolymos, software engineer, open-source enthusiast, overthinker
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently improving my Golang skills
 
 <!---
 adamsolymos/adamsolymos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
